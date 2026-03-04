@@ -10,3 +10,11 @@ Evaluate card category performance and acquisition cost.
 Examine spending behavior across different expenditure types.
 Track geographic contribution by top-performing states.
 Support data-driven decision-making for improving profitability and customer strategy.
+
+
+
+## Dataset used 
+- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/cc_add.csv"></a>
+- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/credit_card.csv"></a>
+- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/cust_add.csv"></a>
+- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/customer.csv"></a>
