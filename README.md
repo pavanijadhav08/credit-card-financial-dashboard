@@ -31,3 +31,13 @@ Support data-driven decision-making for improving profitability and customer str
 - Which customer job category contributes the most revenue?
 - Which transaction method (Swipe, Chip, Online) is most frequently used and generates the highest revenue?
 
+- Dashboard Interaction <a href="https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/Screenshot%20(1).png">dashboard 1</a>
+<a href="https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/Screenshot%20(2).png">Dashboard 2</a>
+
+## Process 
+Collected customer and transaction datasets in CSV format.
+Imported data into SQL and created relational tables.
+Connected SQL database to Power BI.
+Cleaned and transformed data (handled nulls, created age groups, calculated revenue, extracted quarters).
+Created DAX measures for revenue, interest, transactions, and customer analysis.
+Built interactive dashboards to analyze financial performance, customer segments, card categories, and transaction trends.
