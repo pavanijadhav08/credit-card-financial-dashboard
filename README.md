@@ -43,6 +43,10 @@ Support data-driven decision-making for improving profitability and customer str
 - Built interactive dashboards to analyze financial performance, customer segments, card categories, and transaction trends.
 
 
+## Dashboard
+<img width="1200" height="673" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8ad487a2-14ba-4252-8bb5-539cd503ca57" />
+<img width="1212" height="680" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/272e0fee-d8d3-4fdd-8861-79ddf38b73fc" />
+
 
 
 
