@@ -48,6 +48,14 @@ Support data-driven decision-making for improving profitability and customer str
 <img width="1212" height="680" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/272e0fee-d8d3-4fdd-8861-79ddf38b73fc" />
 
 
+## Project Insights
+- Total revenue reached 55.4M with strong performance in Q3.
+- Female customers contributed slightly higher revenue than males.
+- Age group 40–50 is the most profitable segment.
+- Blue card category dominates overall revenue contribution.
+- Majority transactions are done through Swipe method.
+- Revenue is concentrated in top states like TX, NY, and CA.
 
 
-
+## Final Conclusion
+The dashboard provides a clear 360° view of credit card financial and customer performance. It helps identify high-value customer segments, top-performing card categories, and key revenue-driving regions. The insights support data-driven decision-making to improve profitability, optimize acquisition strategies, and monitor business growth effectively.
