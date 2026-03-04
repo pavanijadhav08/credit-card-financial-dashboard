@@ -14,7 +14,7 @@ Support data-driven decision-making for improving profitability and customer str
 
 
 ## Dataset used 
-- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/cc_add.csv"></a>
-- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/credit_card.csv"></a>
-- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/cust_add.csv"></a>
-- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/customer.csv"></a>
+- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/cc_add.csv">cc_add.csv</a>
+- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/credit_card.csv">credit_card.csv</a>
+- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/cust_add.csv">cust_add.csv</a>
+- <a href= "https://github.com/pavanijadhav08/credit-card-financial-dashboard/blob/main/customer.csv">customer.csv</a>
